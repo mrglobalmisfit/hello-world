@@ -1,2 +1,2 @@
 # hello-world
-Very excited about this.
+This is just the beginning.
